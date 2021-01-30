@@ -16,4 +16,4 @@ Setříděná posloupnost čísel je uložena do souboru `vystup.txt`. Pokud se 
 
 Podrobné popsání tohoto programu je v souboru `dokumentace.pdf`.
 
-Pro vyzkoušení programu můžete využít z tohoto repozitáře testovací soubor `vstup.txt`.
+Pro vyzkoušení programu můžete využít z tohoto repozitáře testovací soubor `vstup.txt`. Výsledek setříděné posloupnosti naleznete v testovacím souboru `vystup.txt`.
