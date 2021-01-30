@@ -6,7 +6,7 @@ Setříděná posloupnost čísel je následně uložena do textového souboru.
 ## Vstupní data 
 Ve složce, kde je uložen `.py` soubor, je nutné mít soubor:
 * `vstup.txt`\
-V souboru mají být čísla, která mají být setříděná.\
+V souboru je třeba mít čísla, která mají být setříděná.\
 Čísla mohou být oddělená mezerou nebo čárkou.\
 Tečka je brána jako desetinná značka.\
 Další znaky nebo slova jsou ignorovány.
